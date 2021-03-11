@@ -1,0 +1,129 @@
+    .flex-r {
+        float: right;
+    }
+    
+    h3 {
+        padding: 0.5rem;
+        font-family: 'Arial';
+        text-decoration: bold;
+    }
+    
+    p {
+        color: #8f8f8f;
+    }
+    
+    h2 {
+        text-align: center;
+        font-family: 'Montserrat', sans-serif;
+        font-size: 4rem;
+    }
+    /*****************************************Section - 1******************************************************/
+    
+    .--section1 {
+        overflow: hidden;
+    }
+    /******************FEATURES*************/
+    
+    #features {
+        padding: 15% 10%;
+    }
+    
+    // ICON
+    .icon {
+        padding: .5rem;
+        margin: 1.5rem;
+        color: tomato;
+    }
+    
+    .--card:hover {
+        color: rgb(253, 151, 132);
+        .icon {
+            color: rgb(253, 151, 132);
+        }
+    }
+    
+    .--card {
+        padding: 1.5rem;
+    }
+    
+    #Author {
+        padding: 2rem, 2rem;
+        height: 20rem;
+        width: 20rem;
+        object-fit: cover;
+        margin-top: 5rem;
+        border-radius: 100%;
+    }
+    
+    .section-3 {
+        font-family: 'Montserrat', sans-serif;
+        background-color: tomato;
+        padding-top: 5rem;
+        color: #ffffff;
+    }
+    
+    .caro-img {
+        padding-top: 5rem;
+        height: 20rem;
+        object-fit: contain;
+        padding-right: 3em;
+    }
+    
+    .author-headings {
+        background-color: #8f8f8f6b;
+        padding: 5em 0em 0em 25em;
+        p {
+            color: white;
+        }
+    }
+    
+    .--caro {
+        margin-top: 10rem;
+        padding: 4rem 0rem;
+    }
+    
+    .--bg {
+        background-color: tomato;
+    }
+    
+    .section-1 {
+        margin-top: 5em;
+    }
+    
+    .--box {
+        padding: 3rem 3rem;
+        margin: 20rem 0 0 0;
+        box-shadow: 0rem 2rem 4rem 0 #8f8f8f;
+        height: 40rem;
+        background-color: #ffffff;
+    }
+    
+    .--section1 {
+        background-image: linear-gradient(rgb(248, 133, 66), tomato);
+        margin: 0, 0, 0, 0;
+        h6 {
+            font-size: 3rem;
+            font-weight: 800;
+            color: #ffffff;
+        }
+        .--section1--col {
+            padding: 15rem 3rem 0rem 3rem;
+            p {
+                padding-top: 3rem;
+                color: #ffffff;
+            }
+            font-family: 'Montserrat';
+        }
+    }
+    
+    .--color {
+        color: white;
+        background-color: rgb(248, 133, 66);
+    }
+    
+    .--logo-- {
+        color: white;
+        a {
+            color: white;
+        }
+    }
